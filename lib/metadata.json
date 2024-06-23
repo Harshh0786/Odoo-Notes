@@ -1,0 +1,337 @@
+{
+  "vaultName": "Obsidian Vault",
+  "lastExport": 1719161109694,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "1. Odoo Introduction.md",
+    "2. Module Composition.md",
+    "3. Module Structure.md",
+    "4. Virtual Enviroment.md",
+    "5. Models in Odoo.md",
+    "6. Access rights for models.md",
+    "7. Developer Mode.md",
+    "8. Actions and Menus.md",
+    "9. Form and List View.md",
+    "10. Onchange and Compute.md",
+    "11. Domain.md",
+    "12. Context.md",
+    "13. Basic ORM Methods.md",
+    "14. Advance ORM Methods.md",
+    "15. ORM Methods Return values.md",
+    "16. Odoo Security.md",
+    "17. Add Icon for the Module.md",
+    "18. Manage Database.md",
+    "19. Wizard.md",
+    "20. Smart Button.md",
+    "21. IR Sequence.md",
+    "22. Add action to action button.md",
+    "23. Search View.md",
+    "24. Q-Web Report.md",
+    "25. Excel (xlsx) Report.md",
+    "26. Email Template.md",
+    "27. XML - RPC.md",
+    "28. Controllers in js.md",
+    "29. Point of Sale.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "1. Odoo Introduction.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 1815,
+      "exportedPath": "1. Odoo Introduction.html",
+      "dependencies": []
+    },
+    "2. Module Composition.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 2320,
+      "exportedPath": "2. Module Composition.html",
+      "dependencies": []
+    },
+    "3. Module Structure.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 2933,
+      "exportedPath": "3. Module Structure.html",
+      "dependencies": []
+    },
+    "4. Virtual Enviroment.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 695,
+      "exportedPath": "4. Virtual Enviroment.html",
+      "dependencies": []
+    },
+    "5. Models in Odoo.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 6924,
+      "exportedPath": "5. Models in Odoo.html",
+      "dependencies": []
+    },
+    "6. Access rights for models.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 298,
+      "exportedPath": "6. Access rights for models.html",
+      "dependencies": []
+    },
+    "7. Developer Mode.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 346,
+      "exportedPath": "7. Developer Mode.html",
+      "dependencies": []
+    },
+    "8. Actions and Menus.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 2215,
+      "exportedPath": "8. Actions and Menus.html",
+      "dependencies": []
+    },
+    "9. Form and List View.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 3867,
+      "exportedPath": "9. Form and List View.html",
+      "dependencies": []
+    },
+    "10. Onchange and Compute.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 2011,
+      "exportedPath": "10. Onchange and Compute.html",
+      "dependencies": []
+    },
+    "11. Domain.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 1159,
+      "exportedPath": "11. Domain.html",
+      "dependencies": []
+    },
+    "12. Context.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 3914,
+      "exportedPath": "12. Context.html",
+      "dependencies": []
+    },
+    "13. Basic ORM Methods.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 9643,
+      "exportedPath": "13. Basic ORM Methods.html",
+      "dependencies": []
+    },
+    "14. Advance ORM Methods.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 6169,
+      "exportedPath": "14. Advance ORM Methods.html",
+      "dependencies": []
+    },
+    "15. ORM Methods Return values.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 11037,
+      "exportedPath": "15. ORM Methods Return values.html",
+      "dependencies": []
+    },
+    "16. Odoo Security.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 6718,
+      "exportedPath": "16. Odoo Security.html",
+      "dependencies": []
+    },
+    "17. Add Icon for the Module.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 224,
+      "exportedPath": "17. Add Icon for the Module.html",
+      "dependencies": []
+    },
+    "18. Manage Database.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 585,
+      "exportedPath": "18. Manage Database.html",
+      "dependencies": []
+    },
+    "19. Wizard.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 3183,
+      "exportedPath": "19. Wizard.html",
+      "dependencies": []
+    },
+    "20. Smart Button.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 1453,
+      "exportedPath": "20. Smart Button.html",
+      "dependencies": []
+    },
+    "21. IR Sequence.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 1517,
+      "exportedPath": "21. IR Sequence.html",
+      "dependencies": []
+    },
+    "22. Add action to action button.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 747,
+      "exportedPath": "22. Add action to action button.html",
+      "dependencies": []
+    },
+    "23. Search View.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 2035,
+      "exportedPath": "23. Search View.html",
+      "dependencies": []
+    },
+    "24. Q-Web Report.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 3079,
+      "exportedPath": "24. Q-Web Report.html",
+      "dependencies": []
+    },
+    "25. Excel (xlsx) Report.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 2177,
+      "exportedPath": "25. Excel (xlsx) Report.html",
+      "dependencies": []
+    },
+    "26. Email Template.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 1657,
+      "exportedPath": "26. Email Template.html",
+      "dependencies": []
+    },
+    "27. XML - RPC.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 2990,
+      "exportedPath": "27. XML - RPC.html",
+      "dependencies": []
+    },
+    "28. Controllers in js.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 3303,
+      "exportedPath": "28. Controllers in js.html",
+      "dependencies": []
+    },
+    "29. Point of Sale.md": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 34607,
+      "exportedPath": "29. Point of Sale.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1719161109694,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    }
+  }
+}
